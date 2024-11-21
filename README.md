@@ -1,1 +1,1 @@
-# power-bi-data-professionals-dashboard
+# Power BI Data Professionals Dashboard
